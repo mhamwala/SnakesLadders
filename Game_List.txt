@@ -1,0 +1,6 @@
+1)Minesweeper
+2)Connect 4
+3)Dice Roll
+4)Snakes and Ladders
+5)Battleships
+6)Tic Tac Toe
